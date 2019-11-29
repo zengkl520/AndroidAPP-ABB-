@@ -1,7 +1,8 @@
 # AndroidAPP-ABB-
 一个使用react-native做的安卓app，IOS运行部分功能有问题
 
-使用react-native 0.61制作，需要翻墙工具才能运行
+使用react-native 0.61制作，使用了antd-rn,react-native-tcp-socket,react-native-storage,
+需要翻墙工具才能运行
 
 安装模块
 yarn  
