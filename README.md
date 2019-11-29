@@ -10,7 +10,7 @@ yarn
 yarn add react-native-cli -g
 
 运行
-react-native run-android
+react-native run-android（安卓手机需要打开开发者模式）
 
 ![启动页面](https://github.com/zengkl520/AndroidAPP-ABB-/blob/master/Screenshot_2019-11-29-09-15-04-788_com.awesomeproject2333.jpg)
 ![主页面](https://github.com/zengkl520/AndroidAPP-ABB-/blob/master/Screenshot_2019-11-29-09-15-09-922_com.awesomeproject2333.jpg)
